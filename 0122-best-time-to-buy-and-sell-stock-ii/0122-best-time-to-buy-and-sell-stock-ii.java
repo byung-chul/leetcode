@@ -9,7 +9,6 @@ class Solution {
                     max = prices[sell] - prices[buy];
                 }
             }
-            // prevSell = sell;
             if (max > 0) {
                 profit += max;
             }
