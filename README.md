@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/byung-chul/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/byung-chul/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/byung-chul/leetcode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/byung-chul/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/byung-chul/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/byung-chul/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/byung-chul/leetcode/tree/master/0056-merge-intervals) |
@@ -42,12 +43,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/byung-chul/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/byung-chul/leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/byung-chul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/byung-chul/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/byung-chul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/byung-chul/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/byung-chul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/byung-chul/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/byung-chul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
