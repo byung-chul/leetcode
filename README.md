@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/byung-chul/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/byung-chul/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/byung-chul/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/byung-chul/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/byung-chul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/byung-chul/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/byung-chul/leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/byung-chul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -131,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/byung-chul/leetcode/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/byung-chul/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
