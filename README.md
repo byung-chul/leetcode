@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/byung-chul/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/byung-chul/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/byung-chul/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/byung-chul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/byung-chul/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/byung-chul/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/byung-chul/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/byung-chul/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/byung-chul/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/byung-chul/leetcode/tree/master/0242-valid-anagram) |
@@ -122,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/byung-chul/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/byung-chul/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/byung-chul/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
