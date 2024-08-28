@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/byung-chul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/byung-chul/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/byung-chul/leetcode/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/byung-chul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/byung-chul/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/byung-chul/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
@@ -135,12 +137,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/byung-chul/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/byung-chul/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/byung-chul/leetcode/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -154,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/byung-chul/leetcode/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
