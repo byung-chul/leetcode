@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/byung-chul/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/byung-chul/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/byung-chul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/byung-chul/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/byung-chul/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/byung-chul/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/byung-chul/leetcode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/byung-chul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/byung-chul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/byung-chul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/byung-chul/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/byung-chul/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/byung-chul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/byung-chul/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/byung-chul/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Backtracking
@@ -162,4 +166,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/byung-chul/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
