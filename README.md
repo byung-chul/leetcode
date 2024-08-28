@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/byung-chul/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/byung-chul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/byung-chul/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/byung-chul/leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/byung-chul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/byung-chul/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/byung-chul/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/byung-chul/leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/byung-chul/leetcode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/byung-chul/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/byung-chul/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/byung-chul/leetcode/tree/master/0290-word-pattern) |
