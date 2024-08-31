@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/byung-chul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/byung-chul/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/byung-chul/leetcode/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/byung-chul/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/byung-chul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/byung-chul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/byung-chul/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/byung-chul/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/byung-chul/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
