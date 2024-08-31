@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/byung-chul/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/byung-chul/leetcode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/byung-chul/leetcode/tree/master/0365-water-and-jug-problem) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/byung-chul/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/byung-chul/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/byung-chul/leetcode/tree/master/0226-invert-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/byung-chul/leetcode/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/byung-chul/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/byung-chul/leetcode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/byung-chul/leetcode/tree/master/0365-water-and-jug-problem) |
 ## Binary Tree
 |  |
 | ------- |
