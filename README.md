@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/byung-chul/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/byung-chul/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/byung-chul/leetcode/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/byung-chul/leetcode/tree/master/0529-minesweeper) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/byung-chul/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/byung-chul/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/byung-chul/leetcode/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/byung-chul/leetcode/tree/master/0529-minesweeper) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/byung-chul/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/byung-chul/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/byung-chul/leetcode/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/byung-chul/leetcode/tree/master/0529-minesweeper) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/byung-chul/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/byung-chul/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/byung-chul/leetcode/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/byung-chul/leetcode/tree/master/0529-minesweeper) |
 ## Memoization
 |  |
 | ------- |
