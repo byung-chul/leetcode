@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/byung-chul/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/byung-chul/leetcode/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/byung-chul/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/byung-chul/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/byung-chul/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/byung-chul/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
@@ -284,4 +285,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/byung-chul/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0386-lexicographical-numbers](https://github.com/byung-chul/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
