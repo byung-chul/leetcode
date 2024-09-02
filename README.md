@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/byung-chul/leetcode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/byung-chul/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0672-bulb-switcher-ii](https://github.com/byung-chul/leetcode/tree/master/0672-bulb-switcher-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/byung-chul/leetcode/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/byung-chul/leetcode/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/byung-chul/leetcode/tree/master/0547-number-of-provinces) |
+| [0672-bulb-switcher-ii](https://github.com/byung-chul/leetcode/tree/master/0672-bulb-switcher-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/byung-chul/leetcode/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/byung-chul/leetcode/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/byung-chul/leetcode/tree/master/0547-number-of-provinces) |
+| [0672-bulb-switcher-ii](https://github.com/byung-chul/leetcode/tree/master/0672-bulb-switcher-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -301,4 +304,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/byung-chul/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/byung-chul/leetcode/tree/master/0386-lexicographical-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/byung-chul/leetcode/tree/master/0672-bulb-switcher-ii) |
 <!---LeetCode Topics End-->
