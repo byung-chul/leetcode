@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/byung-chul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/byung-chul/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/byung-chul/leetcode/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/byung-chul/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/byung-chul/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0672-bulb-switcher-ii](https://github.com/byung-chul/leetcode/tree/master/0672-bulb-switcher-ii) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/byung-chul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/byung-chul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/byung-chul/leetcode/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/byung-chul/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/byung-chul/leetcode/tree/master/0322-coin-change) |
 ## Greedy
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/byung-chul/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/byung-chul/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/byung-chul/leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/byung-chul/leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/byung-chul/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/byung-chul/leetcode/tree/master/0383-ransom-note) |
 ## String
@@ -352,4 +355,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/byung-chul/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/byung-chul/leetcode/tree/master/0881-loud-and-rich) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/byung-chul/leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
