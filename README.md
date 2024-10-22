@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/byung-chul/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0672-bulb-switcher-ii](https://github.com/byung-chul/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/byung-chul/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/byung-chul/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/byung-chul/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/byung-chul/leetcode/tree/master/0383-ransom-note) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/byung-chul/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/byung-chul/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
