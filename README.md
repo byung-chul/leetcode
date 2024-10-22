@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/byung-chul/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/byung-chul/leetcode/tree/master/0733-flood-fill) |
 | [0881-loud-and-rich](https://github.com/byung-chul/leetcode/tree/master/0881-loud-and-rich) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/byung-chul/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
