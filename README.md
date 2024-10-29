@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/byung-chul/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/byung-chul/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/byung-chul/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/byung-chul/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/byung-chul/leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/byung-chul/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/byung-chul/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/byung-chul/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/byung-chul/leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/byung-chul/leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/byung-chul/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/byung-chul/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/byung-chul/leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/byung-chul/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/byung-chul/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/byung-chul/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/byung-chul/leetcode/tree/master/1894-merge-strings-alternately) |
