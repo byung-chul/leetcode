@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/byung-chul/leetcode/tree/master/0733-flood-fill) |
 | [0881-loud-and-rich](https://github.com/byung-chul/leetcode/tree/master/0881-loud-and-rich) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/byung-chul/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/byung-chul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/byung-chul/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/byung-chul/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/byung-chul/leetcode/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/byung-chul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/byung-chul/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/byung-chul/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/byung-chul/leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/byung-chul/leetcode/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/byung-chul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/byung-chul/leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/byung-chul/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/byung-chul/leetcode/tree/master/0383-ransom-note) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/byung-chul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
