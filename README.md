@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/byung-chul/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/byung-chul/leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/byung-chul/leetcode/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/byung-chul/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/byung-chul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/byung-chul/leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/byung-chul/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/byung-chul/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/byung-chul/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/byung-chul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -188,11 +190,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/byung-chul/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/byung-chul/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/byung-chul/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/byung-chul/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/byung-chul/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/byung-chul/leetcode/tree/master/0383-ransom-note) |
+| [1777-determine-if-two-strings-are-close](https://github.com/byung-chul/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Union Find
 |  |
 | ------- |
