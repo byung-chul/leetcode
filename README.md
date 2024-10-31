@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/byung-chul/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byung-chul/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/byung-chul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/byung-chul/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/byung-chul/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/byung-chul/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/byung-chul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/byung-chul/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0529-minesweeper](https://github.com/byung-chul/leetcode/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/byung-chul/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/byung-chul/leetcode/tree/master/0733-flood-fill) |
+| [2428-equal-row-and-column-pairs](https://github.com/byung-chul/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -404,4 +407,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/byung-chul/leetcode/tree/master/0264-ugly-number-ii) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/byung-chul/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
