@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/byung-chul/leetcode/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/byung-chul/leetcode/tree/master/0529-minesweeper) |
 | [0605-can-place-flowers](https://github.com/byung-chul/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/byung-chul/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/byung-chul/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/byung-chul/leetcode/tree/master/0733-flood-fill) |
 | [0881-loud-and-rich](https://github.com/byung-chul/leetcode/tree/master/0881-loud-and-rich) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/byung-chul/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/byung-chul/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/byung-chul/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/byung-chul/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
