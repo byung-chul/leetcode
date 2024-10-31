@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/byung-chul/leetcode/tree/master/0733-flood-fill) |
 | [0881-loud-and-rich](https://github.com/byung-chul/leetcode/tree/master/0881-loud-and-rich) |
 | [1046-max-consecutive-ones-iii](https://github.com/byung-chul/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/byung-chul/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/byung-chul/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/byung-chul/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byung-chul/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/byung-chul/leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/byung-chul/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/byung-chul/leetcode/tree/master/0383-ransom-note) |
+| [1319-unique-number-of-occurrences](https://github.com/byung-chul/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/byung-chul/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/byung-chul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
